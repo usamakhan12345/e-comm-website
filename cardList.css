@@ -14,9 +14,9 @@ h1{
     color: rgb(81, 4, 4);
 }
 .btn{
-    position: relative;
-    top:0px;
-    left: 1360px;
+    position: absolute;
+    top: 60px;
+    left: 130px;
     background-color: burlywood;
     width: 100px;
     line-height: 20px;
