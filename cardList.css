@@ -1,0 +1,39 @@
+.cardItem{
+
+    background-color: burlywood;
+    color:black;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin-top: 50px;
+    
+}
+.cardItem >  h3 {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(81, 4, 4);
+}
+.btn{
+    position: relative;
+    top:0px;
+    left: 1360px;
+    background-color: burlywood;
+    width: 100px;
+    line-height: 20px;
+
+
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#cutIcon:hover{
+    color: red;
+
+}
+.btn:hover{
+    background-color: red;
+    color: whitesmoke;
+}

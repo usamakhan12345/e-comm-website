@@ -1,0 +1,43 @@
+.aa{
+    cursor: pointer;
+}
+ 
+.icon{
+    color: red;
+    
+}
+.heartIcon{
+    
+    color: red;
+
+   
+
+
+}
+.favorite{
+
+    display: hidden;
+    background-color:  red;
+}
+.cart {
+    font-size: larger;
+}
+.bg{
+    background-image: url("pics/kns.jpg");
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 10px;
+    
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.card > img {
+    height: 300px;
+    width: 100%px;
+}
